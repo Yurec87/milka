@@ -1,1 +1,1 @@
-printjug
+print('hello')
